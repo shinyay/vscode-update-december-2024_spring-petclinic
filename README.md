@@ -1,3 +1,8 @@
+# Visual Studio Code Update with Spring PetClinic
+
+- [October 2024 (version 1.95)](./demo/2024-11-update.md)
+  - [October 2024 (version 1.95) - Documentation](https://code.visualstudio.com/updates/v1_95)
+
 # Spring PetClinic Sample Application
 [![Build Status](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml/badge.svg)](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml)[![Build Status](https://github.com/spring-projects/spring-petclinic/actions/workflows/gradle-build.yml/badge.svg)](https://github.com/spring-projects/spring-petclinic/actions/workflows/gradle-build.yml)
 
